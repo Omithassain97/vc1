@@ -1,8 +1,8 @@
 [tool.poetry]
-name = "Voicecord"
+name = "Vc1"
 version = "1.0.0"
 description = "A code that can make your discord account 24/7 on voice channels!"
-authors = ["SealedSaucer"]
+authors = ["OmitGaming"]
 
 [tool.poetry.dependencies]
 python = ">=3.10.0,<3.11"
