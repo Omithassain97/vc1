@@ -11,7 +11,7 @@ status = "online" #online/dnd/idle
 GUILD_ID = os.getenv("GUILD_ID")
 CHANNEL_ID = os.getenv("CHANNEL_ID")
 SELF_MUTE = True
-SELF_DEAF = False
+SELF_DEAF = True
 
 usertoken = os.getenv("TOKEN")
 if not usertoken:
